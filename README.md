@@ -1,4 +1,4 @@
-MyCompApp
-=========
+FirstApp
+========
 
-First Company App
+this is the first app which i learn to build on github :)
